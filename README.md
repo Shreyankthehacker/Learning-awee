@@ -19,6 +19,10 @@ Visualize abstract math ideas like never before!
 
 ---
 
+### Animation generated using MANIM DEMOO
+[![Watch the animation demo](https://img.youtube.com/vi/55g-rvJNVWc/0.jpg)](https://youtu.be/55g-rvJNVWc)
+
+
 ### 🧠 LLM-Written & Debugged Code
 
 Every Manim animation is:
